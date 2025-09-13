@@ -4,7 +4,7 @@ This is a simple and interactive **BMI Calculator** built using [Streamlit](http
 It helps users calculate their **Body Mass Index (BMI)** and provides health feedback instantly.  
 
 ## 🚀 Live Demo
-👉 [Click here to run the app](https://yourusername-bmi-calculator.streamlit.app)
+👉 [Click here to run the app](https://bmicalculator-ce8skwrckrdfirdmeiql79.streamlit.app/)
 
 ## 📌 Features
 - Input weight (kg) and height (cm)
